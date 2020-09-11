@@ -1,0 +1,41 @@
+{
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dandelion-prod-142337-authRole",
+      "UnauthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-prod-142337-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-prod-142337-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-dandelion-prod-142337-deployment",
+      "UnauthRoleName": "amplify-dandelion-prod-142337-unauthRole",
+      "StackName": "amplify-dandelion-prod-142337",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:342323006670:stack/amplify-dandelion-prod-142337/f25dc8e0-f3ee-11ea-b54a-0ac11ba26f7a",
+      "AmplifyAppId": "d21ls0bjslgg80"
+    }
+  },
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dandelion-test-152431-authRole",
+      "UnauthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-test-152431-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-test-152431-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-dandelion-test-152431-deployment",
+      "UnauthRoleName": "amplify-dandelion-test-152431-unauthRole",
+      "StackName": "amplify-dandelion-test-152431",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:342323006670:stack/amplify-dandelion-test-152431/74a789f0-f3f7-11ea-a170-06259758a7c4",
+      "AmplifyAppId": "d21ls0bjslgg80"
+    }
+  },
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dandelion-dev-152958-authRole",
+      "UnauthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-dev-152958-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::342323006670:role/amplify-dandelion-dev-152958-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-dandelion-dev-152958-deployment",
+      "UnauthRoleName": "amplify-dandelion-dev-152958-unauthRole",
+      "StackName": "amplify-dandelion-dev-152958",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:342323006670:stack/amplify-dandelion-dev-152958/379852f0-f3f8-11ea-ab9a-061b26aa65e4",
+      "AmplifyAppId": "d21ls0bjslgg80"
+    }
+  }
+}
